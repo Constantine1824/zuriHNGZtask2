@@ -1,4 +1,3 @@
-```markdown
 # ZuriHNGZtask2
 
 This is a simple REST API project that demonstrates basic CRUD operations with django rest framework

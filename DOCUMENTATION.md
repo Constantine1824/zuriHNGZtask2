@@ -1,5 +1,3 @@
-
-```markdown
 # ZuriHNGZ task2 Documentation
 
 This is provides the sample body, responses and status codes for different endpoint of the API
