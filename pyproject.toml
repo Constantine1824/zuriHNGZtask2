@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "zurihngxtask2"
+version = "0.1.0"
+description = ""
+authors = ["Ayomide <ayomidet905@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+gunicorn = "^21.2.0"
+djangorestframework = "^3.14.0"
+dj-database-url = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
