@@ -128,3 +128,7 @@ The API should now be running locally at `http://127.0.0.1:8000/`.
     }
     ```
 - **Status Code:** 200
+
+##UML
+![Untitled (1)](https://github.com/Constantine1824/zuriHNGZtask2/assets/95152188/712aa8b5-14e5-45d9-8404-5d06babe5120)
+
