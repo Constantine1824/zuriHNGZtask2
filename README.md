@@ -34,3 +34,6 @@ This is a simple REST API project that demonstrates basic CRUD operations with d
    ```
 
 The API should now be running locally at `http://127.0.0.1:8000/`.
+
+## UML 
+![Untitled (1)](https://github.com/Constantine1824/zuriHNGZtask2/assets/95152188/0facb513-e774-4380-8011-54afba1f7251)
