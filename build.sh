@@ -4,6 +4,7 @@ set -o errexit
 
 poetry install
 
+cd task2
 
-task2/python manage.py makemigrations
-task2/python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
